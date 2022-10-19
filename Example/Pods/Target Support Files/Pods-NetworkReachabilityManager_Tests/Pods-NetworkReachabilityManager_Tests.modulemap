@@ -1,0 +1,6 @@
+framework module Pods_NetworkReachabilityManager_Tests {
+  umbrella header "Pods-NetworkReachabilityManager_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

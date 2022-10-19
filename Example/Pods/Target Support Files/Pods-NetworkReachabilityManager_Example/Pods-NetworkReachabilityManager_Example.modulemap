@@ -1,0 +1,6 @@
+framework module Pods_NetworkReachabilityManager_Example {
+  umbrella header "Pods-NetworkReachabilityManager_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
