@@ -27,3 +27,9 @@ pod 'NetworkReachabilityManager'
 ## License
 
 NetworkReachabilityManager is available under the MIT license. See the LICENSE file for more info.
+
+##命令
+
+$ pod lib lint --allow-warnings --no-clean
+
+$ pod repo push  NetworkReachabilityManager --allow-warnings --verbose
