@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "NetworkReachabilityManager.h"
 
 FOUNDATION_EXPORT double NetworkReachabilityManagerVersionNumber;
 FOUNDATION_EXPORT const unsigned char NetworkReachabilityManagerVersionString[];
