@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-基于AFNetworkReachabilityManager封装的及时回调是否有网络
+基于AFNetworkReachabilityManager封装的一个方法回调是否有网络，用于某些特定场景需要交互检查使用。
                        DESC
 
   s.homepage         = 'https://github.com/zj1208/NetworkReachabilityManager'
