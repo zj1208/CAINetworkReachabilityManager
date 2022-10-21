@@ -9,7 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface NetworkReachabilityManager : NSObject
+@interface CAINetworkReachabilityManager : NSObject
 
 
 /// 检查是否有网络,这是个异步操作

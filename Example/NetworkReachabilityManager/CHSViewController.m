@@ -7,7 +7,7 @@
 //
 
 #import "CHSViewController.h"
-#import <NetworkReachabilityManager/NetworkReachabilityManager.h>
+#import <CAINetworkReachabilityManager/CAINetworkReachabilityManager.h>
 
 @interface CHSViewController ()
 
@@ -20,7 +20,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    [NetworkReachabilityManager checkNetworkReachability:^(BOOL isReachable) {
+    [CAINetworkReachabilityManager checkNetworkReachability:^(BOOL isReachable) {
         if(isReachable){
             
         }else{

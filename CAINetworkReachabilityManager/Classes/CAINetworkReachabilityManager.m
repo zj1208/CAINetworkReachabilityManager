@@ -5,10 +5,10 @@
 //  Created by simon on 2022/9/6.
 //
 
-#import "NetworkReachabilityManager.h"
+#import "CAINetworkReachabilityManager.h"
 #import <AFNetworking/AFNetworkReachabilityManager.h>
 
-@implementation NetworkReachabilityManager
+@implementation CAINetworkReachabilityManager
 
 
 + (void)checkNetworkReachability:(void(^)(BOOL isReachable))reachBlock{
