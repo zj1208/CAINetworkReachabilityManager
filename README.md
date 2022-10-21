@@ -32,4 +32,4 @@ NetworkReachabilityManager is available under the MIT license. See the LICENSE f
 
 $ pod lib lint --allow-warnings --no-clean
 
-$ pod trunk push NetworkReachabilityManager.podspec --allow-warnings --verbose
+$ pod trunk push CAINetworkReachabilityManager.podspec --allow-warnings --verbose
