@@ -39,7 +39,7 @@
 /* Begin PBXFileReference section */
 		18466C0A1A6AC5B8C60A8B7A /* Pods-NetworkReachabilityManager_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NetworkReachabilityManager_Tests.release.xcconfig"; path = "Target Support Files/Pods-NetworkReachabilityManager_Tests/Pods-NetworkReachabilityManager_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		1EE7F673F035717B7A168797 /* Pods-NetworkReachabilityManager_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NetworkReachabilityManager_Example.debug.xcconfig"; path = "Target Support Files/Pods-NetworkReachabilityManager_Example/Pods-NetworkReachabilityManager_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		20324DC2DB6EA54B084304A7 /* NetworkReachabilityManager.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NetworkReachabilityManager.podspec; path = ../NetworkReachabilityManager.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		20324DC2DB6EA54B084304A7 /* CAINetworkReachabilityManager.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = CAINetworkReachabilityManager.podspec; path = ../CAINetworkReachabilityManager.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		40D0841759232CC626B15CFB /* Pods_NetworkReachabilityManager_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NetworkReachabilityManager_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58A195388D20070C39A /* NetworkReachabilityManager_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NetworkReachabilityManager_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -178,7 +178,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				20324DC2DB6EA54B084304A7 /* NetworkReachabilityManager.podspec */,
+				20324DC2DB6EA54B084304A7 /* CAINetworkReachabilityManager.podspec */,
 				F6B0F3E3D18F7AB4610ABAC0 /* README.md */,
 				8B29C2E647F50840675769B5 /* LICENSE */,
 			);
