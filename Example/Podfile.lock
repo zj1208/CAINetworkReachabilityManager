@@ -1,5 +1,7 @@
 PODS:
   - AFNetworking/Reachability (4.0.1)
+  - CAINetworkReachabilityManager (0.1.0):
+    - AFNetworking/Reachability
   - Expecta (1.0.6)
   - "Expecta+Snapshots (3.1.1)":
     - Expecta (~> 1.0)
@@ -10,15 +12,13 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - NetworkReachabilityManager (0.1.0):
-    - AFNetworking/Reachability
   - Specta (1.0.7)
 
 DEPENDENCIES:
+  - CAINetworkReachabilityManager (from `../`)
   - Expecta
   - "Expecta+Snapshots"
   - FBSnapshotTestCase
-  - NetworkReachabilityManager (from `../`)
   - Specta
 
 SPEC REPOS:
@@ -30,17 +30,17 @@ SPEC REPOS:
     - Specta
 
 EXTERNAL SOURCES:
-  NetworkReachabilityManager:
+  CAINetworkReachabilityManager:
     :path: "../"
 
 SPEC CHECKSUMS:
   AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  CAINetworkReachabilityManager: 30d27f9307dff95c8e237fe1a2af8fbe39d3a9e0
   Expecta: 3b6bd90a64b9a1dcb0b70aa0e10a7f8f631667d5
   "Expecta+Snapshots": dcff217eef506dabd6dfdc7864ea2da321fafbb8
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  NetworkReachabilityManager: 6dbb02c50e508823810825ebffed874196a304ea
   Specta: 3e1bd89c3517421982dc4d1c992503e48bd5fe66
 
-PODFILE CHECKSUM: 1131ae3035a7db60c6242e222d017994c4367b8e
+PODFILE CHECKSUM: c6da1456eff5a3c904405d42687e5222240d1748
 
 COCOAPODS: 1.11.3

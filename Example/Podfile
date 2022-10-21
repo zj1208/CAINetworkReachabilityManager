@@ -3,7 +3,7 @@ use_frameworks!
 platform :ios, '10.0'
 
 target 'NetworkReachabilityManager_Example' do
-  pod 'NetworkReachabilityManager', :path => '../'
+  pod 'CAINetworkReachabilityManager', :path => '../'
 
   target 'NetworkReachabilityManager_Tests' do
     inherit! :search_paths

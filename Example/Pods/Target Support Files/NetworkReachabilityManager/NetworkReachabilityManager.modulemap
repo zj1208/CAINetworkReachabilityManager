@@ -1,6 +1,0 @@
-framework module NetworkReachabilityManager {
-  umbrella header "NetworkReachabilityManager-umbrella.h"
-
-  export *
-  module * { export * }
-}

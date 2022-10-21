@@ -24,7 +24,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-## NetworkReachabilityManager
+## CAINetworkReachabilityManager
 
 Copyright (c) 2022 海参 <879654715@qq.com>
 

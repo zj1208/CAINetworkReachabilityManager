@@ -10,8 +10,8 @@
 #endif
 #endif
 
-#import "NetworkReachabilityManager.h"
+#import "CAINetworkReachabilityManager.h"
 
-FOUNDATION_EXPORT double NetworkReachabilityManagerVersionNumber;
-FOUNDATION_EXPORT const unsigned char NetworkReachabilityManagerVersionString[];
+FOUNDATION_EXPORT double CAINetworkReachabilityManagerVersionNumber;
+FOUNDATION_EXPORT const unsigned char CAINetworkReachabilityManagerVersionString[];
 

@@ -12,7 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 @interface NetworkReachabilityManager : NSObject
 
 
-/// 检查是否有网络
+/// 检查是否有网络,这是个异步操作
 /// - Parameter reachBlock: reachBlock description
 + (void)checkNetworkReachability:(void(^)(BOOL isReachable))reachBlock;
 
