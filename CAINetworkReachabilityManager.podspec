@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CAINetworkReachabilityManager'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = '基于AFNetworkReachabilityManager二次封装的一个方法回调是否有网络，用于某些特定场景需要交互检查使用'
 
 # This description is used to generate tags and improve search results.
