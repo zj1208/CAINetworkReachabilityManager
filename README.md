@@ -1,3 +1,11 @@
+```text
+      .-----------.
+      |  NETWORK  |
+      '-----+-----'
+            |
+       [ ONLINE ]
+```
+
 # CAINetworkReachabilityManager
 
 ## Example
